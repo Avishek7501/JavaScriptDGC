@@ -1,0 +1,18 @@
+.gg {
+  width: 500px;
+  border: 1px solid rgb(97, 94, 94);
+  box-shadow: 0 0 15px black;
+  padding: 1rem;
+  background-color: rgb(241, 241, 241);
+  border-radius: 7px;
+}
+body {
+  height: 100vh;
+  display: grid;
+  place-content: center;
+  background-color: rgb(62, 61, 136) !important;
+}
+
+.inp {
+  color: black;
+}
